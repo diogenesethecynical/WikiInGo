@@ -1,0 +1,7 @@
+Google came up with new language Go or Golang and I thought I will give it a try. This is a web based project in which I make a wiki. The speciality of this is I have enabled the support for tag (using map/dictionary/hash table) besides giving the option for adding, delete,editing the wiki page. 
+
+Comments about Go: Nice programing language, once it becomes stable and people pick it up, it will be something to wath out for. Programming is easy and great thing is if ome variable is not being used, it is an error!
+
+Usage:
+Install go compiler and other prerequisites
+compile and run (port number etc are all configurable, see the code for more details)
